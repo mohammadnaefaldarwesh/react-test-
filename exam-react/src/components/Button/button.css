@@ -1,0 +1,16 @@
+.button {
+  text-align: center;
+  margin: 30px;
+}
+
+button {
+  color: rgb(0, 0, 0);
+  box-shadow: 0 0 5px rgb(116, 115, 115);
+  font-size: 15px;
+  border-radius: 5px;
+  font-weight: bolder;
+}
+
+button:hover {
+  box-shadow: 0 0 10px rgb(255, 255, 255);
+}
